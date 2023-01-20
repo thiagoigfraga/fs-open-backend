@@ -1,0 +1,3 @@
+GET /api/persons/ 200 223 - 5.125 ms
+GET /api/persons/ 200 223 - 1.169 ms
+GET /api/persons/ 200 223 - 3.697 ms
